@@ -31,12 +31,11 @@ public class GeometryFigure {
 			System.out.printf("Shape: %s. Area: %f. Perimeter: %f.%n", figure.getClass().getSimpleName(),
 					figure.getArea(),
 					figure.getPerimeter());
-
 		}
 	}
 
+	// Метод получения размера хранилища
 	public int getSize() {
 		return toolbox.size();
 	}
-
 }

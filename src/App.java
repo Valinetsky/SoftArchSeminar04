@@ -32,7 +32,5 @@ public class App {
 		System.out.println();
 
 		System.out.printf("figureBox.find(rec1)%nИндекс фигуры: %d.", figureBox.find(rec1));
-
 	}
-
 }
